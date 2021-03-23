@@ -27,6 +27,8 @@ lib_deps =
 
 8. Build, upload, and test your Project.
 
+9. In case you have multiple instances connected to multiple mppt devices, you can change the paths in the SensESP Device, Configuration menu to make them unique. To get there, point a browser to the IP address of the SensESP device, as visible in signalk data browser.
+
 Once you have the example working properly, you can include this library in any SensESP Project just by following Step 5 above.
 
 
